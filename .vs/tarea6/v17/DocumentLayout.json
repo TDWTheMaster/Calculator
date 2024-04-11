@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programaci\u00F3n I\\tarea6\\",
+  "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{456E5087-CC0A-4B4E-A69E-669D403F77D0}|tarea6\\tarea6.csproj|c:\\users\\admin\\onedrive\\escritorio\\itla 2024-c1\\programaci\u00F3n i\\tarea6\\tarea6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456E5087-CC0A-4B4E-A69E-669D403F77D0}|tarea6\\tarea6.csproj|c:\\users\\keury\\desktop\\calculator\\tarea6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456E5087-CC0A-4B4E-A69E-669D403F77D0}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456E5087-CC0A-4B4E-A69E-669D403F77D0}|tarea6\\tarea6.csproj|c:\\users\\admin\\onedrive\\escritorio\\itla 2024-c1\\programaci\u00F3n i\\tarea6\\tarea6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{456E5087-CC0A-4B4E-A69E-669D403F77D0}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +20,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programaci\u00F3n I\\tarea6\\tarea6\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "tarea6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programaci\u00F3n I\\tarea6\\tarea6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "tarea6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAArAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-10T20:38:34.053Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programaci\u00F3n I\\tarea6\\tarea6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "tarea6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programaci\u00F3n I\\tarea6\\tarea6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "tarea6\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T20:56:00.182Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

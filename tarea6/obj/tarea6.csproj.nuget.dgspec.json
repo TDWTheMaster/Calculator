@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programación I\\tarea6\\tarea6\\tarea6.csproj": {}
+    "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\tarea6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programación I\\tarea6\\tarea6\\tarea6.csproj": {
+    "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\tarea6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programación I\\tarea6\\tarea6\\tarea6.csproj",
+        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\tarea6.csproj",
         "projectName": "tarea6",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programación I\\tarea6\\tarea6\\tarea6.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Escritorio\\ITLA 2024-C1\\Programación I\\tarea6\\tarea6\\obj\\",
+        "projectPath": "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\tarea6.csproj",
+        "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keury\\Desktop\\Calculator\\tarea6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Keury\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
