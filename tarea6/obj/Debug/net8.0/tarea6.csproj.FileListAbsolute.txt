@@ -28,3 +28,34 @@ C:\Users\Admin\OneDrive\Escritorio\ITLA 2024-C1\Programación I\tarea6\tarea6\ob
 C:\Users\Admin\OneDrive\Escritorio\ITLA 2024-C1\Programación I\tarea6\tarea6\obj\Debug\net8.0\tarea6.pdb
 C:\Users\Admin\OneDrive\Escritorio\ITLA 2024-C1\Programación I\tarea6\tarea6\obj\Debug\net8.0\tarea6.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Escritorio\ITLA 2024-C1\Programación I\tarea6\tarea6\obj\Debug\net8.0\ref\tarea6.dll
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\appsettings.json
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.staticwebassets.runtime.json
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.exe
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.deps.json
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.runtimeconfig.json
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.dll
+C:\Users\Keury\Desktop\Calculator\tarea6\bin\Debug\net8.0\tarea6.pdb
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.RazorAssemblyInfo.cache
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.RazorAssemblyInfo.cs
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.sourcelink.json
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets\msbuild.tarea6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets\msbuild.build.tarea6.props
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tarea6.props
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarea6.props
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\scopedcss\bundle\tarea6.styles.css
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\scopedcss\projectbundle\tarea6.bundle.scp.css
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.dll
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\refint\tarea6.dll
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.pdb
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\tarea6.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Calculator\tarea6\obj\Debug\net8.0\ref\tarea6.dll
