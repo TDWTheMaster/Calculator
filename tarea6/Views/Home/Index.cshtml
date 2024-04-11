@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Calculator";
+}
+
+<div class="container">
+    <h2 class="mt-5 mb-4">Calculator</h2>
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <input type="text" id="input1" class="form-control" placeholder="Enter number" />
+        </div>
+        <div class="col-md-4">
+            <select id="operator" class="form-control" onchange="handleOperationChange()">
+                <option value="+">Add</option>
+                <option value="-">Subtract</option>
+                <option value="*">Multiply</option>
+                <option value="/">Divide</option>
+                <option value="^">Power</option>
+                <option value="sqrt">Square Root</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <input type="text" id="input2" class="form-control" placeholder="Enter number" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <button type="button" class="btn btn-primary" onclick="calculate()">Calculate</button>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div id="result" class="alert alert-info"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function handleOperationChange() {
+            var operator = document.getElementById("operator").value;
+            var input2 = document.getElementById("input2");
+
+            if (operator === "sqrt") {
+                input2.disabled = true;
+            } else {
+                input2.disabled = false;
+            }
+        }
+
+        function calculate() {
+            var input1 = parseFloat(document.getElementById("input1").value);
+            var input2 = parseFloat(document.getElementById("input2").value);
+            var operator = document.getElementById("operator").value;
+            var result;
+            switch (operator) {
+                case "+":
+                    result = input1 + input2;
+                    break;
+                case "-":
+                    result = input1 - input2;
+                    break;
+                case "*":
+                    result = input1 * input2;
+                    break;
+                case "/":
+                    result = input1 / input2;
+                    break;
+                case "^":
+                    result = Math.pow(input1, input2);
+                    break;
+                case "sqrt":
+                    result = Math.sqrt(input1);
+                    break;
+                default:
+                    result = "Invalid operation";
+            }
+            document.getElementById("result").innerText = "Result: " + result;
+        }
+    </script>
+}
